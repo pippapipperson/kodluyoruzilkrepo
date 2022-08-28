@@ -27,4 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Resim
+----------------
 ![resim](img.PNG)
+
+# Links
+[patika profilim](https://app.patika.dev/jwbtheclown)
